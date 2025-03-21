@@ -7,7 +7,7 @@ header {
 	background-color:#00B386; 
 	color:#FFFFFF;
 	height:175px;
-	line-height:400% ```````````````````
+	line-height:400%;
 	text-align:center;
 	padding-top:30px;
 	padding-left:3em;
@@ -183,7 +183,7 @@ header, main, nav, footer, figure, figcaption, aside, section, article {
 	header {
 		padding-top:0.5em;
 		padding-bottom:0.5em;
-		padding:left:0;
+		padding-left:0;
 		height:auto;
 	}
 	h1 {
